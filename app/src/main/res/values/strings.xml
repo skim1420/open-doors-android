@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenDoors</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="geofence_entered_ticker">OpenDoors</string>
+    <string name="geofence_entered_title">OpenDoors</string>
+    <string name="geofence_entered_text">Welcome home!</string>
+
+    <string name="geofence_exited_ticker">OpenDoors</string>
+    <string name="geofence_exited_title">OpenDoors</string>
+    <string name="geofence_exited_text">Come home soon!</string>
+
+</resources>
