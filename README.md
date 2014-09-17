@@ -1,4 +1,4 @@
 open-doors-android
 ==================
 
-OpenDoors iOS client app
+OpenDoors Android client app
